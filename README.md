@@ -3,7 +3,7 @@
   You can find the project here: https://github.com/Kumar-laxmi/Stock-Prediction-System-Application
 )
 
-<img src="./app/static/image/banner.png" alt="STOCK MARKET PREDICTION">
+<img src=""C:\Users\hites\OneDrive\Documents\Stock\app\static\image\banner.png"" alt="STOCK MARKET PREDICTION">
 
 ## Introduction
 <p>
