@@ -1,6 +1,6 @@
 [//]: # (Hello welcome to my project 
   This project is already uploaded to my GitHub Account where I have deployed this project
-  You can find the project here: https://github.com/Kumar-laxmi/Stock-Prediction-System-Application
+  You can find the project here: https://github.com/Hiteshnoone/Stock-Market-Prediction.git
 )
 
 <img src="C:\Users\hites\OneDrive\Documents\Stock\app\static\image\banner.png" alt="STOCK MARKET PREDICTION">
