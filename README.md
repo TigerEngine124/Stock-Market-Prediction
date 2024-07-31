@@ -3,7 +3,7 @@
   You can find the project here: https://github.com/Hiteshnoone/Stock-Market-Prediction.git
 )
 
-<img src=""C:\Users\hites\OneDrive\Desktop\banner.png"" alt="STOCK MARKET PREDICTION">
+<img src="C:\Users\hites\OneDrive\Desktop\banner.png" alt="STOCK MARKET PREDICTION">
 
 ## Introduction
 <p>
