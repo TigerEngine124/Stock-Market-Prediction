@@ -84,7 +84,7 @@
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone https://github.com/Hiteshnoone/Stock-Prediction-System-Application.git
+  git clone https://github.com/TigerEngine124/Stock-Market-Prediction.git
 ```
 
 **STEP 2:** Change the directory to the repository.
